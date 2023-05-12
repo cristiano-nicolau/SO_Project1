@@ -9,5 +9,5 @@ run: `chmod u+x rwstat.sh` `./rwstat.sh`
 
 
 # Autores
-- **[Cristiano Nicolau](https://github.com/cristiano-nicolau) 
-- **[ tiago Cruz](https://github.com/TiagoC18)
+- [Cristiano Nicolau](https://github.com/cristiano-nicolau) 
+- [Tiago Cruz](https://github.com/TiagoC18)
